@@ -1,0 +1,21 @@
+# Environment variables & secrets (CRITICAL: NEVER COMMIT)
+.env
+
+# Database (local test data)
+ecosort.db
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE & OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
